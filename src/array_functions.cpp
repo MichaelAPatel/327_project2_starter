@@ -15,6 +15,8 @@
 #include "constants.h"
 #include "array_functions.h"
 
+// Defining some constants here because we are not allowed to edit the
+// constants.h file.
 const bool FAILED_TO_OPEN_FILE = false;
 const bool SUCCESS = true;
 
